@@ -4,7 +4,7 @@ import Header from '../components/header'
 export default () => {
   return(
     <div>
-      <Header />
+      <Header pageTitle='About'/>
     </div>
   )
 }

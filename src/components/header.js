@@ -1,13 +1,14 @@
 import React from 'react'
 
-export default () => (
+export default props => (
   <header>
-    <h1>ArtbyPravesh Project Documentations</h1>
+    <h3>ArtbyPravesh Project Documentations</h3>
     <nav>
       <ul>
         <li>Home</li>
         <li>About</li>
       </ul>
     </nav>
+    <h1>{props.pageTitle}</h1>
   </header>
 )
