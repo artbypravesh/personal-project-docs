@@ -13,6 +13,7 @@
     "test": "echo \"Write tests! -> https://gatsby.dev/unit-testing\""
   },
   "dependencies": {
+    "firebase-tools": "^7.6.1",
     "gatsby": "^2.13.61",
     "gatsby-plugin-sass": "^2.1.20",
     "node-sass": "^4.12.0",
